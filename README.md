@@ -14,6 +14,8 @@
 
  Source code produced acording to [tutorial](https://www.youtube.com/watch?v=qkJ9keBmQWo).
 
+Entity Framework is an amazing set of tooling around data access. With EFCore, that tooling becomes even more powerful. So why is it that I still don't recommend that people use EFCore? In this video, I will walk you through the best practices of Entity Framework and EFCore and point out the pitfalls to avoid. We will discuss where there are problems and what to do to resolve those problems.
+
 ## Build Application
 
 1. Install .NET Core 2.2.11 SDK ([https://dotnet.microsoft.com/download/dotnet-core/2.2](https://dotnet.microsoft.com/download/dotnet-core/2.2))
